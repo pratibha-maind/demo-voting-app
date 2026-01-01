@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: index.html
+  checksum: a4240d3fdae74b9f567cecee70b1660b0879f6fa965e83d8b952cd1e95196314
+- filename: js/jquery.js
+  checksum: 9c10bbb46c02da35f4395411c4c0fcffb6ccd5de0f6489c6f145cbff7b5c770d
+version: ""
